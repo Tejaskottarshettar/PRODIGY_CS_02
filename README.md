@@ -6,12 +6,12 @@ This Python script performs encryption and decryption of images using the XOR op
 
 ## Usage
 
-1.Ensure you have Python installed on your system.
-2.Install the required dependencies listed in the requirements.txt file using pip install -r requirements.txt.
-3.Run the image_encrypt_decrypt.py script.
-4.The script will encrypt an input image using the provided key and save the encrypted image.
-5.It will then decrypt the encrypted image using the same key and save the decrypted image.
-6.Check the output images to verify the encryption and decryption process.
+ 1.Ensure you have Python installed on your system.
+ 2.Install the required dependencies listed in the requirements.txt file using pip install -r requirements.txt.
+ 3.Run the image_encrypt_decrypt.py script.
+ 4.The script will encrypt an input image using the provided key and save the encrypted image.
+ 5.It will then decrypt the encrypted image using the same key and save the decrypted image.
+ 6.Check the output images to verify the encryption and decryption process.
 
 ## Functions
 
