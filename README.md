@@ -26,7 +26,9 @@ decrypt_image(input_image, key, output_image): Decrypts the input image using XO
 
 ## Example
 if __name__ == "__main__":
+
   encrypt_image("original.png", 123, "encrypted.png")
+
   decrypt_image("encrypted.png", 123, "decrypted.png")
 
   print("Encryption and decryption completed successfully!")
